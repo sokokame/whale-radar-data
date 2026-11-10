@@ -1,6 +1,6 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-10T00:26:09.858709+00:00",
+  "generatedAt": "2026-11-10T00:28:20.657888+00:00",
   "scoringVersion": "form4-radar-v1.1",
   "meaning": "Research intensity ranking, not buy probability or expected return.",
   "candidates": [
@@ -7348,5 +7348,5 @@
     }
   ],
   "collectionErrors": [],
-  "recordedTimeInUtc": "2026-11-10T00:26:08Z"
+  "recordedTimeInUtc": "2026-11-10T00:28:19Z"
 }
