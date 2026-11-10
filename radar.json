@@ -1,6 +1,6 @@
 {
   "mode": "live",
-  "generatedAt": "2026-11-10T00:28:20.657888+00:00",
+  "generatedAt": "2026-11-10T04:40:40.891831+00:00",
   "scoringVersion": "form4-radar-v1.1",
   "meaning": "Research intensity ranking, not buy probability or expected return.",
   "candidates": [
@@ -2271,6 +2271,160 @@
         }
       ],
       "notionalUsd": "13205.5",
+      "hasTradingPlanContext": false,
+      "hasIpoContext": false,
+      "relatedReportingFilings": 1,
+      "isPrediction": false,
+      "dataProvider": "insidertrades.us",
+      "providerAggregated": false,
+      "disclaimer": "Research priority only; not a buy/sell probability or investment recommendation.",
+      "clusterFilings7d": 3,
+      "clusterEvents7d": 3
+    },
+    {
+      "id": "form4:0001437749-26-035984",
+      "ticker": "NXRT",
+      "entity": "NexPoint Residential Trust, Inc.",
+      "issuerCik": "1620393",
+      "category": "insider_reported_ps_activity",
+      "researchIntensity": "High",
+      "researchScore": 73,
+      "scoringVersion": "form4-radar-v1.1",
+      "whySurfaced": [
+        "Filed within the last 1 day",
+        "Contains a reported non-derivative purchase (P)",
+        "3 distinct reported activity events for the same issuer appear within 7 days"
+      ],
+      "observedAt": "2026-11-09",
+      "dataAsOf": "2026-11-09",
+      "publishedAt": "2026-11-09",
+      "source": {
+        "type": "SEC_FORM4",
+        "form": "4",
+        "accession": "0001437749-26-035984",
+        "relatedAccessions": [
+          "0001437749-26-035984"
+        ],
+        "primaryUrl": "https://www.sec.gov/Archives/edgar/data/2034963/000143774926035984/0001437749-26-035984-index.htm"
+      },
+      "freshness": "Filed within the last 1 day",
+      "status": "verified",
+      "limitations": [
+        "SEC acceptance timestamp is missing"
+      ],
+      "owners": [
+        {
+          "name": "Richards Paul",
+          "cik": "2034963",
+          "title": "See Remarks",
+          "officer": true
+        }
+      ],
+      "transactions": [
+        {
+          "date": "2026-11-05",
+          "code": "P",
+          "classification": "市場または相対での購入",
+          "shares": "3000",
+          "price": "16.78",
+          "amount": "50340.0",
+          "security": "Common Stock",
+          "ownership": "D"
+        },
+        {
+          "date": "2026-11-06",
+          "code": "P",
+          "classification": "市場または相対での購入",
+          "shares": "500",
+          "price": "16.33",
+          "amount": "8165.0",
+          "security": "Common Stock",
+          "ownership": "D"
+        },
+        {
+          "date": "2026-11-09",
+          "code": "P",
+          "classification": "市場または相対での購入",
+          "shares": "2800",
+          "price": "15.91",
+          "amount": "44548.0",
+          "security": "Common Stock",
+          "ownership": "D"
+        }
+      ],
+      "notionalUsd": "103053.0",
+      "hasTradingPlanContext": false,
+      "hasIpoContext": false,
+      "relatedReportingFilings": 1,
+      "isPrediction": false,
+      "dataProvider": "insidertrades.us",
+      "providerAggregated": false,
+      "disclaimer": "Research priority only; not a buy/sell probability or investment recommendation.",
+      "clusterFilings7d": 3,
+      "clusterEvents7d": 3
+    },
+    {
+      "id": "form4:0001437749-26-035985",
+      "ticker": "NXRT",
+      "entity": "NexPoint Residential Trust, Inc.",
+      "issuerCik": "1620393",
+      "category": "insider_reported_ps_activity",
+      "researchIntensity": "High",
+      "researchScore": 73,
+      "scoringVersion": "form4-radar-v1.1",
+      "whySurfaced": [
+        "Filed within the last 1 day",
+        "Contains a reported non-derivative purchase (P)",
+        "3 distinct reported activity events for the same issuer appear within 7 days"
+      ],
+      "observedAt": "2026-11-09",
+      "dataAsOf": "2026-11-06",
+      "publishedAt": "2026-11-09",
+      "source": {
+        "type": "SEC_FORM4",
+        "form": "4",
+        "accession": "0001437749-26-035985",
+        "relatedAccessions": [
+          "0001437749-26-035985"
+        ],
+        "primaryUrl": "https://www.sec.gov/Archives/edgar/data/1636187/000143774926035985/0001437749-26-035985-index.htm"
+      },
+      "freshness": "Filed within the last 1 day",
+      "status": "verified",
+      "limitations": [
+        "SEC acceptance timestamp is missing"
+      ],
+      "owners": [
+        {
+          "name": "McGraner Matt",
+          "cik": "1636187",
+          "title": "See Remarks",
+          "officer": true
+        }
+      ],
+      "transactions": [
+        {
+          "date": "2026-11-05",
+          "code": "P",
+          "classification": "市場または相対での購入",
+          "shares": "5910",
+          "price": "16.86",
+          "amount": "99642.6",
+          "security": "Common Stock",
+          "ownership": "D"
+        },
+        {
+          "date": "2026-11-06",
+          "code": "P",
+          "classification": "市場または相対での購入",
+          "shares": "6082",
+          "price": "16.38",
+          "amount": "99623.16",
+          "security": "Common Stock",
+          "ownership": "D"
+        }
+      ],
+      "notionalUsd": "199265.76",
       "hasTradingPlanContext": false,
       "hasIpoContext": false,
       "relatedReportingFilings": 1,
@@ -7157,131 +7311,6 @@
       "disclaimer": "Research priority only; not a buy/sell probability or investment recommendation.",
       "clusterFilings7d": 8,
       "clusterEvents7d": 8
-    },
-    {
-      "id": "form4:0002117143-26-000006",
-      "ticker": "VTMX",
-      "entity": "Vesta Real Estate Corporation, S.A.B. de C.V.",
-      "issuerCik": "1969373",
-      "category": "insider_reported_ps_activity",
-      "researchIntensity": "Medium",
-      "researchScore": 63,
-      "scoringVersion": "form4-radar-v1.1",
-      "whySurfaced": [
-        "Filed within the last 1 day",
-        "Contains a reported non-derivative sale (S)",
-        "Reported P/S notional is at least $250K",
-        "8 distinct reported activity events for the same issuer appear within 7 days"
-      ],
-      "observedAt": "2026-11-09",
-      "dataAsOf": "2026-11-06",
-      "publishedAt": "2026-11-09",
-      "source": {
-        "type": "SEC_FORM4",
-        "form": "4",
-        "accession": "0002117143-26-000006",
-        "relatedAccessions": [
-          "0002117143-26-000006"
-        ],
-        "primaryUrl": "https://www.sec.gov/Archives/edgar/data/2117143/000211714326000006/0002117143-26-000006-index.htm"
-      },
-      "freshness": "Filed within the last 1 day",
-      "status": "verified",
-      "limitations": [
-        "SEC acceptance timestamp is missing"
-      ],
-      "owners": [
-        {
-          "name": "PUCHEU ROMERO ALEJANDRO",
-          "cik": "2117143",
-          "title": "CHIEF LEGAL COUNSEL",
-          "officer": true
-        }
-      ],
-      "transactions": [
-        {
-          "date": "2026-11-06",
-          "code": "S",
-          "classification": "市場または相対での売却",
-          "shares": "120000",
-          "price": "3.73",
-          "amount": "447600.0",
-          "security": "ORDINARY SHARES",
-          "ownership": "D"
-        }
-      ],
-      "notionalUsd": "447600.0",
-      "hasTradingPlanContext": false,
-      "hasIpoContext": false,
-      "relatedReportingFilings": 1,
-      "isPrediction": false,
-      "dataProvider": "insidertrades.us",
-      "providerAggregated": false,
-      "disclaimer": "Research priority only; not a buy/sell probability or investment recommendation.",
-      "clusterFilings7d": 8,
-      "clusterEvents7d": 8
-    },
-    {
-      "id": "form4:0001934692-26-000008",
-      "ticker": "MTDR",
-      "entity": "Matador Resources Co",
-      "issuerCik": "1520006",
-      "category": "insider_reported_ps_activity",
-      "researchIntensity": "Medium",
-      "researchScore": 63,
-      "scoringVersion": "form4-radar-v1.1",
-      "whySurfaced": [
-        "Filed within the last 7 days",
-        "Contains a reported non-derivative purchase (P)",
-        "8 distinct reported activity events for the same issuer appear within 7 days"
-      ],
-      "observedAt": "2026-11-06",
-      "dataAsOf": "2026-11-05",
-      "publishedAt": "2026-11-06",
-      "source": {
-        "type": "SEC_FORM4",
-        "form": "4",
-        "accession": "0001934692-26-000008",
-        "relatedAccessions": [
-          "0001934692-26-000008"
-        ],
-        "primaryUrl": "https://www.sec.gov/Archives/edgar/data/1934692/000193469226000008/0001934692-26-000008-index.htm"
-      },
-      "freshness": "Filed within the last 7 days",
-      "status": "verified",
-      "limitations": [
-        "SEC acceptance timestamp is missing"
-      ],
-      "owners": [
-        {
-          "name": "Elsener William Thomas",
-          "cik": "1934692",
-          "title": "EVP, Reservoir Engineering",
-          "officer": true
-        }
-      ],
-      "transactions": [
-        {
-          "date": "2026-11-05",
-          "code": "P",
-          "classification": "市場または相対での購入",
-          "shares": "900",
-          "price": "51.48",
-          "amount": "46332.0",
-          "security": "Common Stock",
-          "ownership": "D"
-        }
-      ],
-      "notionalUsd": "46332.0",
-      "hasTradingPlanContext": false,
-      "hasIpoContext": false,
-      "relatedReportingFilings": 1,
-      "isPrediction": false,
-      "dataProvider": "insidertrades.us",
-      "providerAggregated": false,
-      "disclaimer": "Research priority only; not a buy/sell probability or investment recommendation.",
-      "clusterFilings7d": 8,
-      "clusterEvents7d": 8
     }
   ],
   "provider": "insidertrades.us",
@@ -7329,12 +7358,12 @@
     {
       "date": "2026-11-09",
       "transactionType": "purchase",
-      "count": 79
+      "count": 84
     },
     {
       "date": "2026-11-09",
       "transactionType": "sale",
-      "count": 134
+      "count": 147
     },
     {
       "date": "2026-11-10",
@@ -7348,5 +7377,5 @@
     }
   ],
   "collectionErrors": [],
-  "recordedTimeInUtc": "2026-11-10T00:28:19Z"
+  "recordedTimeInUtc": "2026-11-10T04:40:40Z"
 }
